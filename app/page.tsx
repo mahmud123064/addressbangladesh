@@ -122,7 +122,7 @@ export default function Home() {
                     <img
                         src="https://res.cloudinary.com/dhksln9ks/image/upload/v1776926648/addressbangladesh/collage_3_1_rlfkkh.png"
                         alt="Hero background"
-                        className="w-full h-full object-cover"
+                        className="w-full h-auto"
                     />
                     <div className="hero-gradient absolute inset-0" />
                     {/* Animated particles */}
