@@ -21,14 +21,14 @@ import "swiper/css/pagination";
 const stats = [
     {
         icon: FaUsers,
-        value: "10,000+",
+        value: "2000+",
         label: "Lives Impacted",
         color: "#059669",
     },
-    { icon: FaLeaf, value: "5,000+", label: "Trees Planted", color: "#16a34a" },
+    { icon: FaLeaf, value: "1000+", label: "Trees Planted", color: "#16a34a" },
     {
         icon: MdHealthAndSafety,
-        value: "5,000+",
+        value: "400+",
         label: "Patients Treated",
         color: "#0891b2",
     },
@@ -40,7 +40,7 @@ const stats = [
     },
     {
         icon: MdVolunteerActivism,
-        value: "200+",
+        value: "20+",
         label: "Women Empowered",
         color: "#db2777",
     },
@@ -120,7 +120,7 @@ export default function Home() {
                 {/* Background image */}
                 <div className="absolute inset-0 z-0">
                     <img
-                        src="https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=1800&q=85"
+                        src="https://res.cloudinary.com/dhksln9ks/image/upload/v1776926648/addressbangladesh/collage_3_1_rlfkkh.png"
                         alt="Hero background"
                         className="w-full h-full object-cover"
                     />
@@ -129,7 +129,7 @@ export default function Home() {
                     {[...Array(8)].map((_, i) => (
                         <div
                             key={i}
-                            className="absolute rounded-full opacity-20"
+                            className="absolute rounded-full opacity-40"
                             style={{
                                 width: `${20 + i * 15}px`,
                                 height: `${20 + i * 15}px`,
@@ -144,9 +144,9 @@ export default function Home() {
                 </div>
 
                 {/* Content */}
-                <div className="relative z-10 text-center px-4 max-w-5xl mx-auto">
+                <div className="relative z-10 text-center px-4 max-w-5xl mx-auto py-10">
                     <h1
-                        className="text-5xl sm:text-6xl md:text-7xl font-black text-white mb-6 leading-tight animate-fade-up"
+                        className="text-5xl sm:text-6xl md:text-7xl font-black text-white mb-6 leading-tight animate-fade-up "
                         style={{
                             fontFamily: "Playfair Display, serif",
                             animationDelay: "0.1s",
@@ -206,10 +206,10 @@ export default function Home() {
                         style={{ animationDelay: "0.7s" }}
                     >
                         {[
-                            { v: "10K+", l: "Lives" },
-                            { v: "5K+", l: "Trees" },
+                            { v: "2K+", l: "Lives" },
+                            { v: "1K+", l: "Trees" },
                             { v: "6+", l: "Projects" },
-                            { v: "200+", l: "Women" },
+                            { v: "20+", l: "Women" },
                         ].map((s) => (
                             <div
                                 key={s.l}
@@ -739,7 +739,7 @@ export default function Home() {
                             plant more trees, and build a better Bangladesh.
                         </p>
                         <div className="flex flex-wrap justify-center gap-4">
-                            <Link
+                            {/* <Link
                                 href="/contact#donate"
                                 className="donate-btn-pulse flex items-center gap-2 px-8 py-4 rounded-full font-bold text-white transition-all hover:scale-105"
                                 style={{
@@ -748,7 +748,7 @@ export default function Home() {
                                 }}
                             >
                                 <FaHandHoldingHeart /> Donate Now
-                            </Link>
+                            </Link> */}
                             <Link
                                 href="/contact"
                                 className="flex items-center gap-2 px-8 py-4 rounded-full font-semibold transition-all hover:scale-105"

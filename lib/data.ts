@@ -6,14 +6,14 @@ export const projects = [
     category: "Environment",
     icon: "🌳",
     color: "#059669",
-    image: "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=800&q=80",
+    image: "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745286/addressbangladesh/16_yxdf64.jpg",
     coverImage: "https://images.unsplash.com/photo-1448375240586-882707db888b?w=1200&q=80",
     date: "2022 - Ongoing",
-    impact: "5,000+",
+    impact: "1,000+",
     impactLabel: "Trees Planted",
     status: "Ongoing",
     shortDesc: "Distributing saplings to local communities to combat deforestation and build greener neighborhoods across Bangladesh.",
-    fullDesc: `The Mrittrikar Ghran (Smell of Earth) project is AdDReSSBANGLADESH's flagship environmental initiative focused on countering the rapid deforestation that threatens Bangladesh's ecological balance.\n\nWe have distributed over 5,000 saplings across rural and urban communities, working closely with local households, schools, and mosques to ensure proper planting and care. Each beneficiary receives both a sapling and training on how to nurture it.\n\nThe project targets native species that provide shade, prevent soil erosion, and support local biodiversity. We prioritize fruit trees in food-insecure areas to provide both environmental and nutritional benefits.`,
+    fullDesc: `The Mrittrikar Ghran (Smell of Earth) project is AdDReSSBANGLADESH's flagship environmental initiative focused on countering the rapid deforestation that threatens Bangladesh's ecological balance.\n\nWe have distributed over 1,000 saplings across rural and urban communities, working closely with local households, schools, and mosques to ensure proper planting and care. Each beneficiary receives both a sapling and training on how to nurture it.\n\nThe project targets native species that provide shade, prevent soil erosion, and support local biodiversity. We prioritize fruit trees in food-insecure areas to provide both environmental and nutritional benefits.`,
     activities: [
       "Free sapling distribution to households",
       "Community planting drives",
@@ -22,9 +22,10 @@ export const projects = [
       "Seasonal follow-up visits"
     ],
     gallery: [
-      "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=600&q=80",
-      "https://images.unsplash.com/photo-1448375240586-882707db888b?w=600&q=80",
-      "https://images.unsplash.com/photo-1574263867128-a3d5c1b1decc?w=600&q=80",
+      "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745289/addressbangladesh/21_aoaqqe.jpg",
+      "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745287/addressbangladesh/19_jplowz.jpg",
+      "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745285/addressbangladesh/15_k6wow5.jpg",
+      "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745288/addressbangladesh/20_vxzrfg.jpg",
     ]
   },
   {
@@ -34,10 +35,10 @@ export const projects = [
     category: "Relief",
     icon: "🎁",
     color: "#d97706",
-    image: "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?w=800&q=80",
-    coverImage: "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=1200&q=80",
+    image: "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745285/addressbangladesh/14_b1ceft.jpg",
+    coverImage: "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745282/addressbangladesh/11_prebkt.jpg",
     date: "2021 - Ongoing",
-    impact: "1,200+",
+    impact: "500+",
     impactLabel: "Families Helped",
     status: "Seasonal",
     shortDesc: "Bringing smiles to underprivileged families by distributing Eid gifts and food packages during the holy festival.",
@@ -47,12 +48,12 @@ export const projects = [
       "Eid food hampers",
       "Special packages for orphans",
       "Community Eid gatherings",
-      "Financial assistance for meritorious students"
     ],
     gallery: [
-      "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?w=600&q=80",
-      "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600&q=80",
-      "https://images.unsplash.com/photo-1469371670807-013ccf25f16a?w=600&q=80",
+      "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745292/addressbangladesh/WhatsApp_Image_2026-04-20_at_8.22.10_PM_iua0eg.jpg",
+      "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745290/addressbangladesh/WhatsApp_Image_2026-03-14_at_1.51.06_AM_kfytjf.jpg",
+      "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745286/addressbangladesh/17_rvjhr1.jpg",
+      "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745284/addressbangladesh/12_kxiex9.jpg",
     ]
   },
   {
@@ -62,14 +63,14 @@ export const projects = [
     category: "Relief",
     icon: "🧥",
     color: "#7c3aed",
-    image: "https://images.unsplash.com/photo-1547483238-f400e65ccd56?w=800&q=80",
+    image: "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745291/addressbangladesh/WhatsApp_Image_2026-04-20_at_8.22.05_PM_psngs0.jpg",
     coverImage: "https://images.unsplash.com/photo-1547483238-f400e65ccd56?w=1200&q=80",
     date: "Every Winter",
-    impact: "3,000+",
+    impact: "3,00+",
     impactLabel: "Blankets & Clothes",
     status: "Seasonal",
     shortDesc: "Distributing warm clothes, blankets and winter essentials to street dwellers and rural poor families facing the cold season.",
-    fullDesc: `Bangladesh's winter months can be harsh, especially for those living on the streets or in poorly-constructed homes. Our Winter Warmth campaign ensures that blankets, sweaters, jackets, and warm clothing reach the most vulnerable members of our communities before temperatures drop.\n\nOur teams travel to remote villages and urban slums to directly hand over winter packages. We prioritize the elderly, children under five, persons with disabilities, and families without shelter.\n\nThrough generous donations from individuals and corporate partners, we have distributed over 3,000 blankets and winter clothing items, providing critical protection against cold-related illness and mortality.`,
+    fullDesc: `Bangladesh's winter months can be harsh, especially for those living on the streets or in poorly-constructed homes. Our Winter Warmth campaign ensures that blankets, sweaters, jackets, and warm clothing reach the most vulnerable members of our communities before temperatures drop.\n\nOur teams travel to remote villages and urban slums to directly hand over winter packages. We prioritize the elderly, children under five, persons with disabilities, and families without shelter.\n\nThrough generous donations from individuals and corporate partners, we have distributed over 3,00 blankets and winter clothing items, providing critical protection against cold-related illness and mortality.`,
     activities: [
       "Blanket and shawl distribution",
       "Warm clothing for children",
@@ -78,9 +79,8 @@ export const projects = [
       "Medical checkup camps for winter ailments"
     ],
     gallery: [
-      "https://images.unsplash.com/photo-1547483238-f400e65ccd56?w=600&q=80",
-      "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?w=600&q=80",
-      "https://images.unsplash.com/photo-1609220136736-443140cffec6?w=600&q=80",
+      "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745280/addressbangladesh/2_kuiqsd.jpg",
+
     ]
   },
   {
@@ -90,14 +90,14 @@ export const projects = [
     category: "Livelihood",
     icon: "🪡",
     color: "#db2777",
-    image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80",
+    image: "https://res.cloudinary.com/dhksln9ks/image/upload/v1776749566/addressbangladesh/pic-1_dlekcn.jpg",
     coverImage: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80",
     date: "2022 - Ongoing",
-    impact: "200+",
+    impact: "20+",
     impactLabel: "Women Empowered",
     status: "Ongoing",
     shortDesc: "Empowering women in rural areas by providing sewing machines and tailoring training to build sustainable livelihoods.",
-    fullDesc: `The Self-Reliant project is built on the belief that a single sewing machine can transform a family's financial future. By providing quality sewing machines to underprivileged women — especially widows, divorced women, and those from extremely poor households — we enable them to earn a sustainable income from home.\n\nEach machine comes with a package of training sessions, where beneficiaries learn professional tailoring, garment making, and small business management. We also connect graduates with local markets and boutiques.\n\nSince launch, over 200 women have received machines, many of whom now run their own micro-enterprises and have become financially independent, breaking the cycle of poverty in their households.`,
+    fullDesc: `The Self-Reliant project is built on the belief that a single sewing machine can transform a family's financial future. By providing quality sewing machines to underprivileged women — especially widows, divorced women, and those from extremely poor households — we enable them to earn a sustainable income from home.\n\nEach machine comes with a package of training sessions, where beneficiaries learn professional tailoring, garment making, and small business management. We also connect graduates with local markets and boutiques.\n\nSince launch, over 20 women have received machines, many of whom now run their own micro-enterprises and have become financially independent, breaking the cycle of poverty in their households.`,
     activities: [
       "Free sewing machine provision",
       "Professional tailoring training",
@@ -106,9 +106,9 @@ export const projects = [
       "Follow-up mentoring visits"
     ],
     gallery: [
-      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80",
-      "https://images.unsplash.com/photo-1612540166811-a66bdf96651f?w=600&q=80",
-      "https://images.unsplash.com/photo-1556909114-44e3e70034e2?w=600&q=80",
+      "https://res.cloudinary.com/dhksln9ks/image/upload/v1776749566/addressbangladesh/pic-1_dlekcn.jpg",
+      // "https://images.unsplash.com/photo-1612540166811-a66bdf96651f?w=600&q=80",
+      // "https://images.unsplash.com/photo-1556909114-44e3e70034e2?w=600&q=80",
     ]
   },
   {
@@ -118,14 +118,14 @@ export const projects = [
     category: "Health",
     icon: "🏥",
     color: "#0891b2",
-    image: "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=800&q=80",
+    image: "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745281/addressbangladesh/6_yxn2pb.jpg",
     coverImage: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200&q=80",
     date: "2023 - Ongoing",
-    impact: "5,000+",
+    impact: "400+",
     impactLabel: "Patients Treated",
     status: "Ongoing",
     shortDesc: "Providing free medical consultations, diagnostics, and medicines to communities with limited access to healthcare.",
-    fullDesc: `Access to quality healthcare remains a major challenge for millions of Bangladeshis, particularly in rural and peri-urban areas. Our Public Health Camp program brings experienced doctors, nurses, and health workers directly into communities to provide free medical services.\n\nEach camp offers general consultations, blood pressure and diabetes screening, eye checkups, women's health services, and free medicine distribution. We have served over 5,000 patients across dozens of camps.\n\nWe partner with hospitals and medical colleges to bring qualified specialists and ensure high-quality care. Post-camp referral services connect patients who need further treatment to partnering hospitals at reduced or zero cost.`,
+    fullDesc: `Access to quality healthcare remains a major challenge for millions of Bangladeshis, particularly in rural and peri-urban areas. Our Public Health Camp program brings experienced doctors, nurses, and health workers directly into communities to provide free medical services.\n\nEach camp offers general consultations, blood pressure and diabetes screening, eye checkups, women's health services, and free medicine distribution. We have served over 400 patients across dozens of camps.\n\nWe partner with hospitals and medical colleges to bring qualified specialists and ensure high-quality care. Post-camp referral services connect patients who need further treatment to partnering hospitals at reduced or zero cost.`,
     activities: [
       "General physician consultations",
       "Diabetes & BP screening",
@@ -134,9 +134,9 @@ export const projects = [
       "Specialist referrals"
     ],
     gallery: [
-      "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=600&q=80",
-      "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600&q=80",
-      "https://images.unsplash.com/photo-1584515933487-779824d29309?w=600&q=80",
+      "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745281/addressbangladesh/1jpeg_j3qakk.jpg",
+      "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745281/addressbangladesh/7_jdb4b4.jpg",
+      "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745281/addressbangladesh/8_wgww2t.jpg",
     ]
   },
   {
@@ -146,7 +146,7 @@ export const projects = [
     category: "Education",
     icon: "📚",
     color: "#065f46",
-    image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80",
+    image: "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745280/addressbangladesh/4_p2dpd3.jpg",
     coverImage: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&q=80",
     date: "2021 - Ongoing",
     impact: "800+",
@@ -162,9 +162,9 @@ export const projects = [
       "Career guidance counseling"
     ],
     gallery: [
-      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=600&q=80",
-      "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=600&q=80",
-      "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=600&q=80",
+      "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745284/addressbangladesh/13_dzo8hc.jpg",
+      "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745282/addressbangladesh/10_wh5zgn.jpg",
+      "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745280/addressbangladesh/3_cqpz35.jpg",
     ]
   }
 ];
@@ -175,7 +175,7 @@ export const testimonials = [
     location: "Gazipur, Dhaka",
     role: "Sewing Machine Recipient",
     text: "The sewing machine from AdDReSSBANGLADESH changed my life completely. I now earn enough to send my two children to school. I am truly grateful for this opportunity.",
-    avatar: "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=100&q=80",
+    avatar: "https://img.freepik.com/premium-vector/woman-with-red-saree-her-head-white-background_741574-21.jpg?semt=ais_hybrid&w=740&q=80",
     project: "Self-Reliant"
   },
   {
@@ -183,7 +183,7 @@ export const testimonials = [
     location: "Sylhet",
     role: "Health Camp Beneficiary",
     text: "I couldn't afford to see a doctor for my diabetes. The free health camp caught my condition early. The doctors were professional and gave me proper medicines. Allah bless this organization.",
-    avatar: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=100&q=80",
+    avatar: "https://img.freepik.com/premium-vector/man-with-mustache-mustache-his-face_1025830-103828.jpg?semt=ais_hybrid&w=740&q=80",
     project: "Public Health Camp"
   },
   {
@@ -191,7 +191,7 @@ export const testimonials = [
     location: "Mymensingh",
     role: "Winter Campaign Recipient",
     text: "My elderly mother received a warm blanket during winter. She sleeps warm now. These people truly care about the poor and helpless in our community.",
-    avatar: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=100&q=80",
+    avatar: "https://img.freepik.com/premium-vector/smiling-indian-woman-traditional-attire_1372062-319.jpg?w=360",
     project: "Winter Warmth"
   },
   {
@@ -199,7 +199,7 @@ export const testimonials = [
     location: "Rangpur",
     role: "Scholarship Student",
     text: "I almost dropped out of school. AdDReSSBANGLADESH gave me a scholarship and books. I passed my SSC with A+ and I'm now continuing my education. Dream is still alive.",
-    avatar: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&q=80",
+    avatar: "https://static.vecteezy.com/system/resources/thumbnails/034/197/839/small/male-icon-user-symbol-of-man-in-business-suit-illustration-vector.jpg",
     project: "Education First"
   },
   {
@@ -207,7 +207,7 @@ export const testimonials = [
     location: "Tangail",
     role: "Tree Planting Volunteer",
     text: "I received a sapling through the Mrittrikar Ghran project. Now my courtyard is green and I have fruit to share with neighbors. A small sapling became a big blessing.",
-    avatar: "https://images.unsplash.com/photo-1554151228-14d9def656e4?w=100&q=80",
+    avatar: "https://img.freepik.com/premium-vector/vector-illustration-indian-woman-orange-tones_774208-636.jpg?semt=ais_hybrid&w=740&q=80",
     project: "Mrittrikar Ghran"
   }
 ];
@@ -235,27 +235,41 @@ export const faqs = [
   },
   {
     q: "How can my organization partner with you?",
-    a: "We actively seek partnerships with local and international NGOs, corporate entities, government bodies, and development agencies. Contact us at info@addressbangladesh.org to discuss collaboration opportunities."
+    a: "We actively seek partnerships with local and international NGOs, corporate entities, government bodies, and development agencies. Contact us at addressbangladeshngo@gmail.com to discuss collaboration opportunities."
   },
   {
     q: "Where do you operate across Bangladesh?",
-    a: "We currently operate primarily in Dhaka, Sylhet, Gazipur, Mymensingh, Tangail, and Rangpur divisions. We plan to expand nationally. Contact us to bring our programs to your area."
+    a: "We currently operate primarily in Dhaka, Naogaon, Gazipur, Mymensingh, Tangail, and Rangpur divisions. We plan to expand nationally. Contact us to bring our programs to your area."
   }
 ];
 
 export const galleryImages = [
-  { id: 1, src: "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=600&q=80", category: "Environment", title: "Tree Distribution Drive" },
-  { id: 2, src: "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=600&q=80", category: "Health", title: "Free Medical Camp" },
-  { id: 3, src: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=600&q=80", category: "Education", title: "Scholarship Distribution" },
-  { id: 4, src: "https://images.unsplash.com/photo-1547483238-f400e65ccd56?w=600&q=80", category: "Relief", title: "Winter Cloth Drive" },
-  { id: 5, src: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80", category: "Livelihood", title: "Sewing Machine Gift" },
-  { id: 6, src: "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?w=600&q=80", category: "Relief", title: "Eid Gift Distribution" },
-  { id: 7, src: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600&q=80", category: "Health", title: "Doctor Consultation" },
-  { id: 8, src: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=600&q=80", category: "Education", title: "Book Distribution" },
-  { id: 9, src: "https://images.unsplash.com/photo-1448375240586-882707db888b?w=600&q=80", category: "Environment", title: "Community Planting" },
-  { id: 10, src: "https://images.unsplash.com/photo-1469371670807-013ccf25f16a?w=600&q=80", category: "Relief", title: "Community Gathering" },
-  { id: 11, src: "https://images.unsplash.com/photo-1612540166811-a66bdf96651f?w=600&q=80", category: "Livelihood", title: "Training Session" },
-  { id: 12, src: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=600&q=80", category: "Education", title: "Student Support" },
+  { id: 1, src: "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745289/addressbangladesh/21_aoaqqe.jpg", category: "Environment", title: "Tree Distribution Drive" },
+  { id: 2, src: "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745288/addressbangladesh/20_vxzrfg.jpg", category: "Environment", title: "Tree Distribution Drive" },
+  { id: 3, src: "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745287/addressbangladesh/19_jplowz.jpg", category: "Environment", title: "Tree Distribution Drive" },
+  { id: 4, src: "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745286/addressbangladesh/16_yxdf64.jpg", category: "Environment", title: "Tree Distribution Drive" },
+  { id: 5, src: "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745285/addressbangladesh/15_k6wow5.jpg", category: "Environment", title: "Tree Distribution Drive" },
+  { id: 6, src: "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745281/addressbangladesh/1jpeg_j3qakk.jpg", category: "Health", title: "Free Medical Camp" },
+  { id: 7, src: "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745281/addressbangladesh/7_jdb4b4.jpg", category: "Health", title: "Free Medical Camp" },
+  { id: 8, src: "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745281/addressbangladesh/8_wgww2t.jpg", category: "Health", title: "Free Medical Camp" },
+  { id: 9, src: "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745281/addressbangladesh/6_yxn2pb.jpg", category: "Health", title: "Free Medical Camp" },
+  { id: 10, src: "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745280/addressbangladesh/4_p2dpd3.jpg", category: "Education", title: "Scholarship Distribution" },
+  { id: 11, src: "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745280/addressbangladesh/3_cqpz35.jpg", category: "Education", title: "Scholarship Distribution" },
+  { id: 12, src: "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745282/addressbangladesh/10_wh5zgn.jpg", category: "Education", title: "Scholarship Distribution" },
+  { id: 13, src: "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745284/addressbangladesh/13_dzo8hc.jpg", category: "Education", title: "Scholarship Distribution" },
+  { id: 14, src: "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745291/addressbangladesh/WhatsApp_Image_2026-04-20_at_8.22.05_PM_psngs0.jpg", category: "Relief", title: "Winter Cloth Drive" },
+  { id: 15, src: "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745280/addressbangladesh/2_kuiqsd.jpg", category: "Relief", title: "Winter Cloth Drive" },
+  { id: 16, src: "https://res.cloudinary.com/dhksln9ks/image/upload/v1776749566/addressbangladesh/pic-1_dlekcn.jpg", category: "Livelihood", title: "Sewing Machine Gift" },
+  { id: 17, src: "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745292/addressbangladesh/WhatsApp_Image_2026-04-20_at_8.22.10_PM_iua0eg.jpg", category: "Relief", title: "Eid Gift Distribution" },
+  { id: 18, src: "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745290/addressbangladesh/WhatsApp_Image_2026-03-14_at_1.51.06_AM_kfytjf.jpg", category: "Relief", title: "Eid Gift Distribution" },
+  { id: 19, src: "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745286/addressbangladesh/17_rvjhr1.jpg", category: "Relief", title: "Eid Gift Distribution" },
+  { id: 20, src: "https://res.cloudinary.com/dhksln9ks/image/upload/v1776745285/addressbangladesh/14_b1ceft.jpg", category: "Relief", title: "Eid Gift Distribution" },
+  // { id: 7, src: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600&q=80", category: "Health", title: "Doctor Consultation" },
+  // { id: 8, src: "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=600&q=80", category: "Education", title: "Book Distribution" },
+  // { id: 9, src: "https://images.unsplash.com/photo-1448375240586-882707db888b?w=600&q=80", category: "Environment", title: "Community Planting" },
+  // { id: 10, src: "https://images.unsplash.com/photo-1469371670807-013ccf25f16a?w=600&q=80", category: "Relief", title: "Community Gathering" },
+  // { id: 11, src: "https://images.unsplash.com/photo-1612540166811-a66bdf96651f?w=600&q=80", category: "Livelihood", title: "Training Session" },
+  // { id: 12, src: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=600&q=80", category: "Education", title: "Student Support" },
 ];
 
 export const translations: Record<string, Record<string, string>> = {

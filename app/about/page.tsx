@@ -34,7 +34,7 @@ export default function AboutPage() {
   return (
     <div style={{ background: "var(--bg)" }}>
       {/* Hero */}
-      <div className="relative py-36 flex items-center justify-center overflow-hidden" style={{ background: "linear-gradient(135deg, #064e3b 0%, #059669 60%, #d97706 100%)" }}>
+      {/* <div className="relative py-36 flex items-center justify-center overflow-hidden" style={{ background: "linear-gradient(135deg, #064e3b 0%, #059669 60%, #d97706 100%)" }}>
         <div className="absolute inset-0">
           <img src="https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=1600&q=80" alt="" className="w-full h-full object-cover opacity-15" />
         </div>
@@ -49,7 +49,24 @@ export default function AboutPage() {
             A registered society dedicated to building a self-sufficient, educated, and healthy Bangladesh
           </p>
         </div>
-      </div>
+      </div> */}
+
+      <div className="relative w-full py-36 flex items-center justify-center overflow-hidden" style={{ background: "linear-gradient(135deg, #064e3b 0%, #059669 60%, #d97706 100%)" }}>
+  <div className="absolute inset-0">
+    <img src="https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=1600&q=80" alt="" className="w-full h-full object-cover opacity-15" />
+  </div>
+  <div className="relative w-full text-center px-6 sm:px-8 max-w-3xl mx-auto">
+    <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full mb-4 text-xs font-semibold uppercase tracking-wider text-emerald-300" style={{ background: "rgba(255,255,255,0.1)" }}>
+      About Us
+    </div>
+    <h1 className="text-4xl sm:text-5xl md:text-6xl font-black text-white mb-4 break-words" style={{ fontFamily: "Playfair Display, serif" }}>
+      About AdDReSSBANGLADESH
+    </h1>
+    <p className="text-green-100 text-base sm:text-lg">
+      A registered society dedicated to building a self-sufficient, educated, and healthy Bangladesh
+    </p>
+  </div>
+</div>
 
       {/* Mission & Vision */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 py-20">
@@ -111,7 +128,7 @@ export default function AboutPage() {
         </div>
 
         {/* Team */}
-        <div className="mb-16">
+        {/* <div className="mb-16">
           <h2 className="text-3xl font-black mb-3 text-center" style={{ color: "var(--text)", fontFamily: "Playfair Display, serif" }}>Our Leadership</h2>
           <p className="text-center mb-10" style={{ color: "var(--text-muted)" }}>Dedicated people driving our mission forward</p>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
@@ -125,7 +142,7 @@ export default function AboutPage() {
               </div>
             ))}
           </div>
-        </div>
+        </div> */}
 
         {/* CTA */}
         <div className="rounded-2xl p-10 text-center" style={{ background: "linear-gradient(135deg, #064e3b, #059669)" }}>
